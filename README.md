@@ -1,7 +1,23 @@
 # AKKITYA
+
+
 my first git repository
+
+
 author:ADITYA KUMAR
+
+
 i am learning programming languages and also documenting it for further seeing it
+
+
+
+
+
+
+
+
+
+
 #include <stdio.h>
 #include<stdbool.h>
 #include<string.h>
